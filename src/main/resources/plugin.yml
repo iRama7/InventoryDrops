@@ -1,0 +1,6 @@
+name: InventoryDrops
+version: '${project.version}'
+main: rama.id.InventoryDrops
+api-version: '1.19'
+authors: [ ImRama ]
+description: Transfer drops to the player inventory directly.
